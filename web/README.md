@@ -1,5 +1,24 @@
-## React NLW#2
+## React - Rocketseat NLW#2
 
+### Comando utilizado para iniciar o projeto   
+`yarn create react-app web --template typescript`
+
+### Biblitecas utilizadas:
+
+- Utilizar ícones sugeridos em aula
+` yarn add react-icons ` 
+
+- Biblioteca para roteamento
+` yarn add react-router-dom ` 
+  - Por estar usando typescript, seguir sugestão . . . 
+    ` npm install (yarn add) @types/react-router-dom -D `
+
+_Sugetão para utilizar mapas alternativos (que não seja google)_
+- leaflet (Biblioteca de mapas) ... ReactLeaflet <br/>
+  `yarn add leaflet react-leaflet -D`
+
+- mapbox
+________________________________________________________________________________
 ## Available Scripts
 
 In the project directory, you can run:
