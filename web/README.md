@@ -1,4 +1,4 @@
-## React - Rocketseat NLW#2
+## React - Rocketseat NLW#3
 
 ### Comando utilizado para iniciar o projeto   
 `yarn create react-app web --template typescript`
