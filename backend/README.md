@@ -21,3 +21,6 @@
     - Criando a primeira migration: `yarn typeorm migration:run`
     _Para melhor visualização do banco_: Beekeeper Studio
 
+- Para manipulaçao de uploads de arquivos  
+    `yarn add multer`
+

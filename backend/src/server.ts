@@ -2,12 +2,11 @@ import express, { response } from 'express';
 
 import './database/connection';
 
+import routes from './routes';
+
 const app = express();
 
 app.use(express.json());
-
-app.get('/users', (request, response) => {
-    return response.json({ message: 'Semana NLW#3' })
-})
+app.use(routes);
 
 app.listen(3333);
