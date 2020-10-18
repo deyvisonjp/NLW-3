@@ -22,5 +22,18 @@
     _Para melhor visualização do banco_: Beekeeper Studio
 
 - Para manipulaçao de uploads de arquivos  
-    `yarn add multer`
+    `yarn add multer`  
 
+- Lidando com exceções   
+    - Tratar erros com express
+    `yarn add express-async-errors`
+    - criar pacote errors e configura-lo
+
+- Validar Dados   
+     `yarn add yup`
+
+- Instalando Cors (Permite que a API seja acessível de diferentes domínios)
+    `yarn add cors` e `yarn add  @types/cors -D`
+
+*Variáveis de Ambiente - Ler artigo Rocketseat*
+PAREI EM 1:40
